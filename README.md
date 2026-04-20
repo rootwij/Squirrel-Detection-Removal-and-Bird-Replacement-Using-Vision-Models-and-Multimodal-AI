@@ -1,4 +1,4 @@
-# Assignment 5: Squirrel Detection, Removal, and Bird Replacement
+# Squirrel Detection, Removal, and Bird Replacement
 
 This project compares two image manipulation approaches for wildlife scenes:
 
@@ -16,7 +16,6 @@ The main goal of Method 1 is to:
 ## Project Files
 
 ```text
-assignment5/
 ├── originalImgs/
 ├── allImages.txt
 ├── selectedImages.txt
@@ -235,7 +234,6 @@ The squirrel masks should be slightly larger than the squirrel, not extremely ti
 Inpainting quality may vary depending on the model and prompt.
 Manual inspection is important for both mask quality and realism.
 If outputs look strange, prompt tuning and mask adjustment can improve results.
-Author
 
-Rutvij / Rootwij
 
+Thanks !!!
