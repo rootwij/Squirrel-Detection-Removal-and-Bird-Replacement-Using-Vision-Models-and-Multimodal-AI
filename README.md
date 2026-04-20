@@ -99,7 +99,7 @@ python replaceSquirrelsWithBirds.py selectedImages.txt
 
 ## 🌐 Method 2: Multimodal AI Deliverables
 
-Using an online multimodal assistant, process at least **3 images** from your `selectedImages.txt` file to complete the following tasks:
+Using an online multimodal assistant, 
 
 | Task | Output Image Files | Transcript File |
 | :--- | :--- | :--- |
@@ -108,8 +108,6 @@ Using an online multimodal assistant, process at least **3 images** from your `s
 | **Generate** (Text-to-Image) | `onlineGenerated1.jpg`, `onlineGenerated2.jpg`, `onlineGenerated3.jpg` | `generationChatTranscriptLinks.txt` |
 
 ---
-
-## 💡 Notes & Best Practices
 
 * **Mask Sizing:** Ensure squirrel masks are slightly larger than the subject (not tightly cropped) for better blending.
 * **Prompt Tuning:** Inpainting quality is highly dependent on the model and prompts. Adjust your text descriptions if outputs look unnatural.
